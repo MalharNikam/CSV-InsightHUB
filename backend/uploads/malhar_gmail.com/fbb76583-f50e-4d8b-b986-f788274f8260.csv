@@ -1,0 +1,11 @@
+employee_id,name,department,salary,years_at_company,attrition,training_hours,promotion_ready,performance_score,leaves_taken
+E001,Neha Sharma,Sales,65000,3.2,Yes,2,No,3,14
+E002,Ravi Patel,IT,72000,2.0,No,6,Yes,5,5
+E003,Anita Joshi,HR,60000,1.5,Yes,4,No,4,10
+E004,Amit Kumar,Finance,80000,4.8,No,10,Yes,5,2
+E005,Sana Ali,Marketing,70000,3.0,No,8,Yes,4,6
+E006,Vikram Mehra,IT,76000,6.1,No,12,Yes,5,3
+E007,Priya Iyer,Sales,67000,2.3,Yes,3,No,2,11
+E008,Karan Singh,HR,59000,1.0,Yes,2,No,3,9
+E009,Ruchi Gupta,Finance,82000,5.2,No,9,Yes,5,1
+E010,Tarun Desai,Marketing,71000,2.8,No,7,Yes,4,7

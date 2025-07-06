@@ -1,0 +1,6 @@
+employee_id,salary,attrition,department
+101,65000,Yes,Sales
+102,48000,No,HR
+103,73000,No,Finance
+104,52000,Yes,Sales
+105,88000,No,Engineering

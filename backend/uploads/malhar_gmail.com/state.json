@@ -1,0 +1,96 @@
+{
+  "chat_history": [
+    {
+      "role": "user",
+      "content": "highest salary?"
+    },
+    {
+      "role": "assistant",
+      "content": {
+        "input": "user: highest salary?",
+        "output": "The highest salary is 82000."
+      }
+    },
+    {
+      "role": "user",
+      "content": "highest salary"
+    },
+    {
+      "role": "assistant",
+      "content": {
+        "input": "user: highest salary?\nassistant: {'input': 'user: highest salary?', 'output': 'The highest salary is 82000.'}\nuser: highest salary",
+        "output": "The highest salary is 82000."
+      }
+    },
+    {
+      "role": "user",
+      "content": "highest salary?"
+    },
+    {
+      "role": "assistant",
+      "content": {
+        "input": "user: highest salary?\nassistant: {'input': 'user: highest salary?', 'output': 'The highest salary is 82000.'}\nuser: highest salary\nassistant: {'input': \"user: highest salary?\\nassistant: {'input': 'user: highest salary?', 'output': 'The highest salary is 82000.'}\\nuser: highest salary\", 'output': 'The highest salary is 82000.'}\nuser: highest salary?",
+        "output": "The highest salary is 82000."
+      }
+    },
+    {
+      "role": "user",
+      "content": "highest salary?"
+    },
+    {
+      "role": "assistant",
+      "content": {
+        "input": "user: highest salary?\nassistant: {'input': 'user: highest salary?', 'output': 'The highest salary is 82000.'}\nuser: highest salary\nassistant: {'input': \"user: highest salary?\\nassistant: {'input': 'user: highest salary?', 'output': 'The highest salary is 82000.'}\\nuser: highest salary\", 'output': 'The highest salary is 82000.'}\nuser: highest salary?\nassistant: {'input': 'user: highest salary?\\nassistant: {\\'input\\': \\'user: highest salary?\\', \\'output\\': \\'The highest salary is 82000.\\'}\\nuser: highest salary\\nassistant: {\\'input\\': \"user: highest salary?\\\\nassistant: {\\'input\\': \\'user: highest salary?\\', \\'output\\': \\'The highest salary is 82000.\\'}\\\\nuser: highest salary\", \\'output\\': \\'The highest salary is 82000.\\'}\\nuser: highest salary?', 'output': 'The highest salary is 82000.'}\nuser: highest salary?",
+        "output": "The highest salary is 82000."
+      }
+    },
+    {
+      "role": "user",
+      "content": "highest salary?"
+    },
+    {
+      "role": "assistant",
+      "content": "The highest salary is 82000."
+    },
+    {
+      "role": "user",
+      "content": "highest salary and his name?"
+    },
+    {
+      "role": "assistant",
+      "content": "The highest salary is 82000 and the employee's name is Ruchi Gupta."
+    },
+    {
+      "role": "user",
+      "content": "which employee has taken the most leaves?"
+    },
+    {
+      "role": "assistant",
+      "content": "Agent stopped due to iteration limit or time limit."
+    },
+    {
+      "role": "user",
+      "content": "list the employee name with the highest number of leaves taken"
+    },
+    {
+      "role": "assistant",
+      "content": "Agent stopped due to iteration limit or time limit."
+    },
+    {
+      "role": "user",
+      "content": "How many employees are ready for promotion?"
+    },
+    {
+      "role": "assistant",
+      "content": "Agent stopped due to iteration limit or time limit."
+    },
+    {
+      "role": "user",
+      "content": "how many employees are ready for promotion"
+    },
+    {
+      "role": "assistant",
+      "content": "Agent stopped due to iteration limit or time limit."
+    }
+  ]
+}
